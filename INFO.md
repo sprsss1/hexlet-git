@@ -1,1 +1,2 @@
-djhfd
+git is awesome!
+newline
